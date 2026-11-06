@@ -147,9 +147,9 @@ JavaScript Mastery ,2026. React Native Full Course 2026 | Build, Publish and Mon
 
 Kapadi, A,2025. How to Build a Dynamic Pricing Table in React Native with Minimal Code. [online] Available at: <https://medium.com/@amolakapadi/how-to-build-a-dynamic-pricing-table-in-react-native-with-minimal-code-1e600ad86fa7 > Accessed [5 September 2026].
 
-Magaudini, A, 2026.Sample App, MAST5112, Mobile App Scripting Accessed [4 September 2026]
-
 Magaudini, A, 2026.Poe App, MAST5112, Mobile App Scripting Accessed [5 November 2026]
+
+Magaudini, A, 2026.Sample App, MAST5112, Mobile App Scripting Accessed [4 September 2026]
 
 MDN Web Docs, 2025.Number. isFinite() – JavaScript. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite > Accessed [5 September 2026].
 
